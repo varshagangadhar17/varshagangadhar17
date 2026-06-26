@@ -175,16 +175,6 @@ Built using **Next.js + Tailwind CSS**
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varshagangadhar17&theme=tokyo-night"/>
-
-</p>
-
----
-
 # ⚙️ Currently Exploring
 
 - 🚀 Next.js
