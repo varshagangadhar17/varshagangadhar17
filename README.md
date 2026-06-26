@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋, I'm Varshini Gangadhar
+# Hi there 👋, I'm Varsha Gangadhar
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+%7C+React+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀" />
 
@@ -73,7 +73,6 @@
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
 <img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=ts"/>
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=nextjs"/>
 <img src="https://skillicons.dev/icons?i=redux"/>
