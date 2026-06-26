@@ -167,8 +167,6 @@ Built using **Next.js + Tailwind CSS**
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my projects, consider giving them a ⭐.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer"/>
 
 </div>
