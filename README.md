@@ -144,35 +144,6 @@ Modern Portfolio showcasing
 - Contact
 
 Built using **Next.js + Tailwind CSS**
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=varshagangadhar17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varshagangadhar17&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshagangadhar17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=varshagangadhar17&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
 ---
 
 # ⚙️ Currently Exploring
